@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551983373648",
+    "project_id": "cybersecurity-a4a07",
+    "storage_bucket": "cybersecurity-a4a07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551983373648:android:e5237da910cf703320e055",
+        "android_client_info": {
+          "package_name": "com.example.wootter_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551983373648-p0hb53vpbnopgc2lm4dfb9gmbe6u27rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc4FsgAiMoJmNd9oo4S7yO83Z5fishhv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551983373648-p0hb53vpbnopgc2lm4dfb9gmbe6u27rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
